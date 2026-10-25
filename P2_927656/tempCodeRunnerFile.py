@@ -1,0 +1,1 @@
+odosGeneradosTotal["BFS"] += solAlg["generados"]
